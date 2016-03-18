@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg6338"
+   version="1.1"
+   inkscape:version="0.91 r"
+   width="276.74716"
+   height="166.75792"
+   viewBox="0 0 276.74716 166.75792"
+   sodipodi:docname="controles_sala_systema.svg">
+  <metadata
+     id="metadata6344">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6342">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect10589"
+       is_visible="true" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="717"
+     id="namedview6340"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1.1273828"
+     inkscape:cx="137.58358"
+     inkscape:cy="25.307507"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="monitor"
+     style="display:inline"
+     transform="translate(-79.830933,-79.710144)"
+     sodipodi:insensitive="true">
+    <rect
+       style="opacity:1;fill:#3f7158;fill-opacity:0.73684208;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5785"
+       width="166.75792"
+       height="276.74716"
+       x="-246.46806"
+       y="79.830933"
+       transform="matrix(0,-1,1,0,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:11.05676937px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="92.249054"
+       y="92.965637"
+       id="text5787"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5789"
+         x="92.249054"
+         y="92.965637"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:wendy;-inkscape-font-specification:wendy;fill:#ffffff">root:~$</tspan><tspan
+         sodipodi:role="line"
+         x="92.249054"
+         y="106.7866"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:wendy;-inkscape-font-specification:wendy;fill:#ffffff"
+         id="tspan5795">Autopilot... down</tspan><tspan
+         sodipodi:role="line"
+         x="92.249054"
+         y="120.60756"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:wendy;-inkscape-font-specification:wendy;fill:#ffffff"
+         id="tspan5797">auto system controls...down</tspan><tspan
+         sodipodi:role="line"
+         x="92.249054"
+         y="134.42853"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:wendy;-inkscape-font-specification:wendy;fill:#ffffff"
+         id="tspan5799">auto levels...down</tspan><tspan
+         sodipodi:role="line"
+         x="92.249054"
+         y="148.24948"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:wendy;-inkscape-font-specification:wendy;fill:#ffffff"
+         id="tspan5801">landing sequence initiated...</tspan></text>
+    <text
+       sodipodi:linespacing="100%"
+       id="text5803"
+       y="178.91702"
+       x="92.249054"
+       style="font-style:normal;font-weight:normal;font-size:14.95953846px;line-height:100%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan5813"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:wendy;-inkscape-font-specification:wendy;fill:#ffffff"
+         y="178.91702"
+         x="92.249054"
+         sodipodi:role="line">Align x coordinates:</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:wendy;-inkscape-font-specification:wendy;fill:#ffffff"
+         y="193.87656"
+         x="92.249054"
+         sodipodi:role="line"
+         id="tspan5829" /><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:wendy;-inkscape-font-specification:wendy;fill:#ffffff"
+         y="208.83611"
+         x="92.249054"
+         sodipodi:role="line"
+         id="tspan5860">Align y coordinates:</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="cursor"
+     style="display:inline"
+     sodipodi:insensitive="true"
+     transform="translate(-79.830933,-79.710144)">
+    <rect
+       transform="matrix(0,-1,1,0,0,0)"
+       y="201.35132"
+       x="-148.91968"
+       height="6.2090564"
+       width="10.689602"
+       id="rect5832"
+       style="opacity:1;fill:#ffffff;fill-opacity:0.73684208;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Bar"
+     style="display:inline"
+     sodipodi:insensitive="true"
+     transform="translate(-79.830933,-79.710144)">
+    <rect
+       y="169.29819"
+       x="198.69028"
+       height="12.418142"
+       width="106.44122"
+       id="rect5852"
+       style="opacity:1;fill:#2f4c3b;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:0.73684208;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5850"
+       width="17.740206"
+       height="12.418142"
+       x="198.69028"
+       y="169.29819" />
+  </g>
+  <g
+     style="display:inline"
+     inkscape:label="Bar 2"
+     id="g5854"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true"
+     transform="translate(-79.830933,-79.710144)">
+    <rect
+       style="opacity:1;fill:#2f4c3b;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5856"
+       width="106.44122"
+       height="12.418142"
+       x="198.69028"
+       y="199.29819" />
+    <rect
+       y="199.29819"
+       x="198.69028"
+       height="12.418142"
+       width="17.740206"
+       id="rect5858"
+       style="opacity:1;fill:#ffffff;fill-opacity:0.73684208;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  </g>
+</svg>

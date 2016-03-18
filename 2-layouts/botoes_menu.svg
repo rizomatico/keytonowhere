@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="365.04642"
+   height="60.558826"
+   id="svg3678"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="Novo documento 23">
+  <defs
+     id="defs3680" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.2712766"
+     inkscape:cx="217.14286"
+     inkscape:cy="54.285714"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1366"
+     inkscape:window-height="717"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3683">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-106.04823,-236.36848)">
+    <rect
+       style="opacity:0.72000002;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+       id="rect3156"
+       width="300.27084"
+       height="60.558826"
+       x="137.87044"
+       y="236.36848"
+       rx="6"
+       ry="6" />
+    <rect
+       y="236.36848"
+       x="448.04807"
+       height="60.558826"
+       width="10.093142"
+       id="rect3158"
+       style="opacity:0.72000002;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+       rx="4"
+       ry="4" />
+    <rect
+       style="opacity:0.72000002;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+       id="rect3160"
+       width="5.0465727"
+       height="60.558826"
+       x="466.04807"
+       y="236.36848"
+       rx="2"
+       ry="2" />
+    <rect
+       style="opacity:0.72000002;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+       id="rect3162"
+       width="10.093142"
+       height="60.558826"
+       x="-129.0948"
+       y="236.36848"
+       transform="scale(-1,1)"
+       rx="4"
+       ry="4" />
+    <rect
+       y="236.36848"
+       x="-111.0948"
+       height="60.558826"
+       width="5.0465727"
+       id="rect3164"
+       style="opacity:0.72000002;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+       transform="scale(-1,1)"
+       rx="2"
+       ry="2" />
+    <text
+       xml:space="preserve"
+       style="font-size:67.36443329px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff7f2a;fill-opacity:1;stroke:none;display:inline;font-family:wendy;-inkscape-font-specification:wendy Bold"
+       x="182.58992"
+       y="289.86447"
+       id="text3814"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.99999995,-3.0704414e-4,3.0704414e-4,0.99999995,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3816"
+         x="182.58992"
+         y="289.86447"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ff7f2a;font-family:League Gothic;-inkscape-font-specification:League Gothic Bold">NEW GAME</tspan></text>
+  </g>
+</svg>

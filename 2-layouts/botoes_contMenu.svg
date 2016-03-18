@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="65"
+   height="75"
+   viewBox="0 0 65 75.000001"
+   id="svg9542"
+   version="1.1"
+   inkscape:version="0.91 r"
+   sodipodi:docname="botoes_contMenu.svg"
+   inkscape:export-filename="/home/ricardograca/1_PROJETOS/19-games/PuzzleVitria/0-GAME/images/Acertos/credits/BACK.png"
+   inkscape:export-xdpi="135.42479"
+   inkscape:export-ydpi="135.42479">
+  <defs
+     id="defs9544">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4306"
+       x="-0.030394067"
+       width="1.0607881"
+       y="-0.091253438"
+       height="1.1825069">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.71258113"
+         id="feGaussianBlur4308" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.3831332"
+     inkscape:cx="37.471131"
+     inkscape:cy="49.022406"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1366"
+     inkscape:window-height="717"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata9547">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-742.63104,-639.62813)">
+    <path
+       sodipodi:type="star"
+       style="display:inline;opacity:0.91199999;fill:#afe9c6;fill-opacity:0.73863637;stroke:none;stroke-width:11;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.93333333"
+       id="path8331"
+       sodipodi:sides="6"
+       sodipodi:cx="775.13104"
+       sodipodi:cy="677.12813"
+       sodipodi:r1="36.551655"
+       sodipodi:r2="31.654663"
+       sodipodi:arg1="0.52359878"
+       sodipodi:arg2="1.0471976"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 806.7857,695.40394 -31.65466,18.27583 -31.65466,-18.27583 0,-36.55165 31.65466,-18.27583 31.65466,18.27583 z" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4238"
+       y="686.49872"
+       x="746.99738"
+       style="font-style:normal;font-weight:normal;font-size:37.48230743px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter4306)"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:WENDY;-inkscape-font-specification:WENDY;fill:#000000;"
+         y="686.49872"
+         x="746.99738"
+         id="tspan4240"
+         sodipodi:role="line">BACK</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:37.48230743px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="746.99738"
+       y="686.49872"
+       id="text4234"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4236"
+         x="746.99738"
+         y="686.49872"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:WENDY;-inkscape-font-specification:WENDY;fill:#ffffff">BACK</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1920"
+   height="1080"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r"
+   sodipodi:docname="aviso_idade.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.19021928"
+     inkscape:cx="474.20966"
+     inkscape:cy="431.91771"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="723"
+     inkscape:window-x="0"
+     inkscape:window-y="21"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:snap-page="true"
+     inkscape:snap-global="false" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="fundo"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,27.637817)">
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/ricardograca/1_PROJETOS/19-games/PuzzleVitria/0-GAME/images/0-intro/aviso.png"
+       y="306.8512"
+       x="440.65378"
+       height="319.35989"
+       width="1012.9128"
+       id="rect3867"
+       style="fill:#ffffff;fill-opacity:1;stroke:none" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       id="rect3029"
+       width="992.46753"
+       height="297.43677"
+       x="450.8764"
+       y="317.81274"
+       inkscape:export-filename="/home/ricardograca/1_PROJETOS/19-games/PuzzleVitria/0-GAME/images/0-intro/aviso.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:181.1214447px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       x="495.14694"
+       y="538.30444"
+       id="text3031"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/ricardograca/1_PROJETOS/19-games/PuzzleVitria/0-GAME/images/0-intro/aviso.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3033"
+         x="495.14694"
+         y="538.30444"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Impact;-inkscape-font-specification:Impact Bold">18</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3035"
+       y="553.474"
+       x="641.65387"
+       style="font-size:230.55027771px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:13.2205286;stroke-miterlimit:4;stroke-dasharray:none;font-family:Sans"
+       xml:space="preserve"
+       inkscape:export-filename="/home/ricardograca/1_PROJETOS/19-games/PuzzleVitria/0-GAME/images/0-intro/aviso.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;stroke:#000000;stroke-width:13.2205286;stroke-miterlimit:4;stroke-dasharray:none;font-family:Impact;-inkscape-font-specification:Impact Bold"
+         y="553.474"
+         x="641.65387"
+         id="tspan3037"
+         sodipodi:role="line">+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:230.55027771px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       x="641.65387"
+       y="553.474"
+       id="text3807"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/ricardograca/1_PROJETOS/19-games/PuzzleVitria/0-GAME/images/0-intro/aviso.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3809"
+         x="641.65387"
+         y="553.474"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;stroke:none;font-family:Impact;-inkscape-font-specification:Impact Bold">+</tspan></text>
+    <rect
+       y="323.66473"
+       x="789.71259"
+       height="285.73276"
+       width="645.45801"
+       id="rect3811"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       inkscape:export-filename="/home/ricardograca/1_PROJETOS/19-games/PuzzleVitria/0-GAME/images/0-intro/aviso.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3813"
+       y="443.06863"
+       x="836.91937"
+       style="font-size:93.55626678px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"
+       inkscape:export-filename="/home/ricardograca/1_PROJETOS/19-games/PuzzleVitria/0-GAME/images/0-intro/aviso.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;font-family:Impact;-inkscape-font-specification:Impact Bold"
+         y="443.06863"
+         x="836.91937"
+         sodipodi:role="line"
+         id="tspan3817">RESTRICTED TO</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;font-family:Impact;-inkscape-font-specification:Impact Bold"
+         y="560.01398"
+         x="836.91937"
+         sodipodi:role="line"
+         id="tspan3821"><tspan
+   style="fill:#d40000"
+   id="tspan3823">18 </tspan>AND OVER</tspan></text>
+  </g>
+</svg>
